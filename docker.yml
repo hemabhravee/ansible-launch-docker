@@ -5,7 +5,7 @@
 #                state: present
         
         - docker_container:
-                name: lolll
+                name: sherlock_homes
                 image: centos
                 tty: True
                 interactive: True
